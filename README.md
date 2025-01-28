@@ -1,4 +1,4 @@
 # Resume
 My-Resume
 My name is Isaac Babu
-Student at Karunya University 
+I am a CSE Student at Karunya University 
